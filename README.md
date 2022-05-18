@@ -1,8 +1,8 @@
 # Alkemy-Challenger
 
 
-#DOCUMENTACIÓN : https://documenter.getpostman.com/view/20616504/UyxnDPt3
-
+# DOCUMENTACIÓN : https://documenter.getpostman.com/view/20616504/UyxnDPt3
+# Archivo .env : https://drive.google.com/file/d/1G46f_lBR0AUd-91DOxnztxOTuxHFNXsb/view?usp=sharing
 
 Desarrolle una API para explorar el mundo de Disney, la cual permitirá conocer y modificar los
 personajes que lo componen y entender en qué películas estos participaron.
